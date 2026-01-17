@@ -24,8 +24,8 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[🏗️ Customer Churn Prediction](https://github.com/jatin-42/Customer-churn-prediction)** | End-to-end ML pipeline to identify at-risk customers. Deployed as a scalable API using Docker and AWS. | `Python` `Docker` `AWS` `Scikit-Learn` |
-| **[🕸️ Image Captioning (GCN + LSTM)](https://github.com/jatin-42/image-captioning-gcn-rnn)** | Advanced AI system generating captions by understanding object relationships via Graph Convolutional Networks. | `GCN` `LSTM` `Comp. Vision` |
-
+| **[🕸️ Image Captioning (GCN + LSTM)](https://github.com/jatin-42/image-captioning-gcn-rnn)** | Advanced AI system generating captions by understanding object relationships via Graph Convolutional Networks. |`GCN` `LSTM` `Comp. Vision` |
+| **[📊 ML and Data Engineering Portfolio](https://github.com/jatin-42/JatinPatidar)** | A centralized collection of SQL case studies, Python EDA notebooks, and business insight reports. | `SQL` `Pandas` `Matplotlib` `EDA` |
 ---
 
 ### 🛠️ Technical Stack
@@ -53,7 +53,7 @@
   <a href="https://linkedin.com/in/jatin-patidar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:jatin7898@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=microsoftoutlook" alt="Email" />
-  </a>
+ <a href="mailto:jatinpatidar622@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
