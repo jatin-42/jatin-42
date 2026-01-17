@@ -1,20 +1,25 @@
-<div align="center">
-    <h1>Hi 👋, I'm Jatin</h1>
-    <h3>AI & Data Engineer | Building Scalable ML Pipelines</h3>
-    <p><i>Specializing in End-to-End Machine Learning, Graph Neural Networks (GCN), and Cloud Deployment.</i></p>
+<h1 align="center">Hi 👋, I'm Jatin</h1>
+<h3 align="center">AI & Data Engineer | Building Scalable ML Pipelines</h3>
 
-    <a href="mailto:jatinpatidar622@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/jatin-patidar" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://jatin-42.github.io/Data-Engineering-Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-View_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    </div>
+<p align="center">
+  <i>Specializing in End-to-End Machine Learning, Graph Neural Networks (GCN), and Cloud Deployment.</i>
+</p>
 
-<br>
+<p align="center">
+  <a href="mailto:jatinpatidar622@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jatin-patidar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://jatin-42.github.io/Data-Engineering-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<hr>
 
 ### 🚀 Featured Projects
 
@@ -24,9 +29,10 @@
 | **[🕸️ Image Captioning (GCN + LSTM)](https://github.com/jatin-42/image-captioning-gcn-rnn)** | Advanced AI system generating captions by understanding object relationships via Graph Convolutional Networks. | `TensorFlow` `GCN` `LSTM` `Comp. Vision` |
 | **[📊 Data Engineering Portfolio](https://github.com/jatin-42/Data-Engineering-Portfolio)** | A centralized collection of SQL case studies, Python EDA notebooks, and business insight reports. | `SQL` `Pandas` `Matplotlib` `EDA` |
 
----
+<br>
 
 ### 🛠️ Technical Stack
+
 * **Languages:** Python, SQL
 * **Machine Learning:** Pandas, NumPy, Scikit-Learn
 * **Deep Learning:** Graph Neural Networks (GCN), CNN, RNN/LSTM
@@ -35,14 +41,20 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
----
+<br>
+<hr>
 
 ### 📫 Let's Connect
 
@@ -50,7 +62,8 @@
   <a href="https://linkedin.com/in/jatin-patidar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
- <a href="mailto:jatinpatidar622@gmail.com">
+  &nbsp;
+  <a href="mailto:jatinpatidar622@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  </a>
 </p>
