@@ -24,21 +24,20 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[🏗️ Customer Churn Prediction](https://github.com/jatin-42/Customer-churn-prediction)** | End-to-end ML pipeline to identify at-risk customers. Deployed as a scalable API using Docker and AWS. | `Python` `Docker` `AWS` `Scikit-Learn` |
-| **[🕸️ Image Captioning (GCN + LSTM)](https://github.com/jatin-42/image-captioning-gcn-rnn)** | Advanced AI system generating captions by understanding object relationships via Graph Convolutional Networks. | `TensorFlow` `GCN` `LSTM` `Comp. Vision` |
+| **[🕸️ Image Captioning (GCN + LSTM)](https://github.com/jatin-42/image-captioning-gcn-rnn)** | Advanced AI system generating captions by understanding object relationships via Graph Convolutional Networks. | `GCN` `LSTM` `Comp. Vision` |
 
 ---
 
 ### 🛠️ Technical Stack
 
 * **Languages:** Python, SQL
-* **Machine Learning:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
+* **Machine Learning:** Pandas, NumPy, Scikit-Learn
 * **Deep Learning:** Graph Neural Networks (GCN), CNN, RNN/LSTM
 * **Engineering & Ops:** Docker, Git, AWS (Deployment)
-* **Visualization:** Matplotlib, Seaborn
+* **Visualization:** Matplotlib
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
