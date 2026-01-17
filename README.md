@@ -25,7 +25,7 @@
 | :--- | :--- | :--- |
 | **[🏗️ Customer Churn Prediction](https://github.com/jatin-42/Customer-churn-prediction)** | End-to-end ML pipeline to identify at-risk customers. Deployed as a scalable API using Docker and AWS. | `Python` `Docker` `AWS` `Scikit-Learn` |
 | **[🕸️ Image Captioning (GCN + LSTM)](https://github.com/jatin-42/image-captioning-gcn-rnn)** | Advanced AI system generating captions by understanding object relationships via Graph Convolutional Networks. |`GCN` `LSTM` `Comp. Vision` |
-| **[📊 ML and Data Engineering Portfolio](https://github.com/jatin-42/JatinPatidar)** | A centralized collection of SQL case studies, Python EDA notebooks, and business insight reports. | `SQL` `Pandas` `Matplotlib` `EDA` |
+| **[📊 ML and Data Engineering Portfolio](https://github.com/jatin-42/Data-Engineering-Portfolio)** | A centralized collection of SQL case studies, Python EDA notebooks, and business insight reports. | `SQL` `Pandas` `Matplotlib` `EDA` |
 ---
 
 ### 🛠️ Technical Stack
